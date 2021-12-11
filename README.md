@@ -5,3 +5,10 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=2C8EBB)
 
 
+```node.js
+npm install
+`express`
+`scoket.io`
+`scoket.io-client`
+```
+
